@@ -36,4 +36,4 @@ spec:
           name: frontend
           items:
             - key: nginx.conf
-              path: nginx.conf
+              path: nginx.conf 
